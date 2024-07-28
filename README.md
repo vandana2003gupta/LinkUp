@@ -1,4 +1,4 @@
-# LinkUp
+# LinkUp - Community Based App for ABEScians
 
 A new Flutter project.
 
